@@ -11,7 +11,7 @@ I'm currently focused on improving my skills in **HTML, CSS, Bootstrap, JavaScri
 ## 🚀 About Me
 
 - 💻 I'm learning and building projects in Web Development
-- 🌱 Currently improving my JavaScript skills
+- 🌱 Currently improving my Development skills
 - 🎨 I enjoy creating clean and responsive designs
 - 🔧 I love turning ideas into functional websites
 - 📚 Always learning something new
